@@ -29,7 +29,20 @@ To find out how different campaigns outcomes of the play fever in relation to th
 
 ### Analysis of Outcomes Based on Launch Date
 
+
+
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/104603128/167521352-c42f9fb2-34f3-45f2-bb55-84a247f57269.png)
+
+
 ### Analysis of Outcomes Based on Goals
+
+
+
+
+
+
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/104603128/167521475-90fae8d4-1219-4726-97eb-bba616176b7b.png)
+
 
 ### Challenges and Difficulties Encountered
 
