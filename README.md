@@ -45,26 +45,34 @@ To find out different campaign outcomes of the play fever in relation to their l
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/104603128/167521475-90fae8d4-1219-4726-97eb-bba616176b7b.png)
 
-* For Goals upto 19999 the percentage of successful campaigns is more than percentage of failed campaigns.
-* The percentage of failed campaign peaks at goals between 45000 to 49999 followed by 25000 to 29999.
+* For Goals upto 19999 the Percentage of Successful Campaigns is more than Percentage of Failed Campaigns.
+* The percentage of Failed Campaigns peak at Goals between 45000 to 49999 followed by 25000 to 29999.
 * The percentage of Successful Campaigns peak in goals less than 1000 followed by goals between 35000 to 44999.
 
 
 ### Challenges and Difficulties Encountered
 
+* In line Graph Outcomes_vs_Goals, on the X axis goals ' less than 1000 ' label was apppearing after ' 50000 or more ' label on plotting the pivot chart from the pivot table because of which the graph displayed was different , this error was corrected by using Manual sorting.
 
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+1. *What are two conclusions you can draw about the Outcomes based on Launch Date?*
 
 * The best month for campaigns is May followed by June & July.
 * The percentage of failed campaigns out of all campaigns is the least in May. 
 
-- What can you conclude about the Outcomes based on Goals?
-The percentage of successful goals is maximum for goals less than 1000 . 
-* The percentage of successful & failed campaoign goals 
+2. *What can you conclude about the Outcomes based on Goals?*
 
-- What are some limitations of this dataset?
+* The percentage of successful goals is maximum for goals less than 1000 . 
+* The percentage of successful campaign goals is greater than the Percentage of Failed Campaign Goals except for Goals between 15000 to 34999 and for 45000 and more.
 
-- What are some other possible tables and/or graphs that we could create?
+3. *What are some limitations of this dataset?*
+
+* In case of Oucomes based on Goals more than 19999 the data is very limited.
+* In this method, the conclusion is limited to X-Y model, hence unable to add multiple variables at the same time.
+
+4. *What are some other possible tables and/or graphs that we could create?*
+
+* Creating a pie chart to display percentage of outcomes in relation to countries in case of Outcomes based on Launch Date.
+* Creating another pie chart to visulaize Percentage of Successful, Failed & Canceled w.r.t. the goal outcomes.
