@@ -20,7 +20,7 @@ To find out different campaign outcomes of the play fever in relation to their l
 
 ###### *Challenges*
 
-* The data available is from 2010 till 2017 for parent category "Theater" but the data is not evenly distributed over the years and is more concentrated on years 2014, 2015 & 2016.
+* The data available is from 2010 till 2017 for category "Theater" but the data is not evenly distributed over the years and is more concentrated on years 2014, 2015 & 2016.
 * The data available is heavily focussed on campaigns in two countries with US having 65% share of the outcomes under the category "Theatre" followed by GB with a share of 26%.
 * The campaign data is concentrated for campaign goals of up to $9999. There is some data for goals between 10000 to 24999. But for goals greater than 25000 there is limited campaign data.
 
@@ -64,8 +64,8 @@ To find out different campaign outcomes of the play fever in relation to their l
 
 2. *What can you conclude about the Outcomes based on Goals?*
 
-* The percentage of successful goals is maximum for goals less than 1000 . 
-* The percentage of successful campaign goals is greater than the Percentage of Failed Campaign Goals except for Goals between 15000 to 34999 and for 45000 and more.
+* The Percentage of Successful Goals is maximum for goals less than 1000 . 
+* The Percentage of Successful Campaign goals is greater than the Percentage of Failed Campaign Goals except for Goals between 15000 to 34999 and for 45000 and more.
 
 3. *What are some limitations of this dataset?*
 
